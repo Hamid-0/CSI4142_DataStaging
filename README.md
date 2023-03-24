@@ -16,11 +16,11 @@ Download and install postgresql from the following link
 
  <https://www.postgresql.org/download/>
 
-### psycopg2
+## psycopg2
 
 > pip install psycopg2
 
-### Running the program
+## Running the program
 
 Configure db.ini to match your postgresql user and password
 
