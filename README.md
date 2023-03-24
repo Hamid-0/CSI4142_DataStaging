@@ -8,7 +8,7 @@
 
 - psycopg2 python library
 
-## Installation
+# Installation
 
 ## Postgresql
 
