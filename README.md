@@ -10,7 +10,7 @@
 
 ## Installation
 
-### Postgresql
+## Postgresql
 
 Download and install postgresql from the following link
 
