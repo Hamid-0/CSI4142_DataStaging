@@ -26,4 +26,6 @@ Configure db.ini to match your postgresql user and password
 
 The values can be changed in this file [db.ini](db.ini)
 
-Next, run the progam by running all cells
+Next, run the progam by running all cells.
+
+A new file should be created named "clean_stroke_data"
