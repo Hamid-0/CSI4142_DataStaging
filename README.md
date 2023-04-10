@@ -5,8 +5,11 @@
 ## Requirements
 
 - postgresql 14 or 15
-
 - psycopg2 python library
+- scikit-learn
+- matplotlib
+- seaborn
+- pandas
 
 # Installation
 
@@ -18,7 +21,19 @@ Download and install postgresql from the following link
 
 ## psycopg2
 
-> pip install psycopg2
+```pip install psycopg2```
+
+## Scikit-learn
+```pip install scikit-learn```
+
+## Matplotlib
+```pip install matplotlib```
+
+## Seaborn
+```pip install seaborn```
+
+## Pandas
+```pip install pandas```
 
 ## Running the program
 
