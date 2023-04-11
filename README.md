@@ -37,6 +37,8 @@ Download and install postgresql from the following link
 
 ## Running the program
 
+_Delete the existing strokeDB if it already exists on your postgresql server_
+
 Configure db.ini to match your postgresql user and password
 
 The values can be changed in this file [db.ini](db.ini)
